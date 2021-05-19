@@ -1,1 +1,1 @@
-# golang-json-rpc
+# json-rpc
